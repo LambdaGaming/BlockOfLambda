@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bol",
+  "name": "Block Of Lambda",
+  "description": "Rare block that has a 50/50 chance to give a buff/debuff when mined.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LambdaGaming"],
+  "credits": "LambdaGaming",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
