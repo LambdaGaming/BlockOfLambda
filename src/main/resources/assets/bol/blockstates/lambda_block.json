@@ -1,5 +1,5 @@
 {
-    "variants": {
-        "normal": { "model": "bol:lambda_block" }
-    }
+  "variants": {
+    "": {"model": "bol:block/lambda_block"}
+  }
 }

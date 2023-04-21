@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#O#",
+    "ODO",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_concrete"
+    },
+    "O": {
+      "item": "minecraft:orange_concrete"
+    },
+    "D": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "bol:lambda_block",
+    "count": 1
+  }
+}

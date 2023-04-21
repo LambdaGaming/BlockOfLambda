@@ -1,6 +1,6 @@
 {
-   "parent": "block/cube_all",
-   "textures": {
-       "all": "bol:blocks/lambda_block"
-   }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bol:block/lambda_block"
+  }
 }
